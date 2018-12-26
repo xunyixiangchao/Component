@@ -4,6 +4,7 @@ import component.work.com.library_base.config.ModuleLifecycleConfig
 import me.goldze.mvvmhabit.base.BaseApplication
 
 /**
+ * application
  * Created by lis on 2018/12/25.
  */
 class AppApplication : BaseApplication() {
