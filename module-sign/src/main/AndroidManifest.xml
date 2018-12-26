@@ -1,0 +1,8 @@
+<manifest package="component.work.com.module_sign"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+        <activity android:name=".ui.LoginActivity"></activity>
+    </application>
+
+</manifest>
